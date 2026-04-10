@@ -56,7 +56,7 @@ The 8 Columns are: Invoice, StockCode, Quantity, Description, InvoiceDate, Price
 and could skew the results. I will use the cancelled orders for the dashboard.
 
 ### 10. Tools & Technology
-- PyCharm - Used for the analysis.
+- MySQL Workbench - Used for the analysis.
 - CSV file - The dataset is in a CSV format.
 - Tableau - For the dashboard.
 
