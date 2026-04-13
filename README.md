@@ -22,8 +22,7 @@
 ## 1. Introduction
 
 ### 2. Overview
-Vixen Manufacturing needs to reduce stockouts & overstock situations. They want to do this with a better understanding of the company's
-demand patterns and lead times.
+This project analyses shipment pricing & delivery performance across a global supply chain.
 
 ### 3. Business Questions
 - What drives shipment cost & delivery performance across countries, vendors, and shipment modes?
