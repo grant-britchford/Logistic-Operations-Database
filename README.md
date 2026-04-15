@@ -62,15 +62,17 @@ and could skew the results. I will use the cancelled orders for the dashboard.
 - SQL Server Management System (SSMS) - Used to import the raw dataset, create the data model, and clean the data before the analysis.
 - Tableau - Used to create the dashboards.
 
-## 11. Duplicate Key Data
-FacilityID: FAC00011 Count: 2
-            FAC00012 Count: 2
-            FAC00013 Count: 2
-            FAC00014 Count: 2
-            FAC00015 Count: 2
-            FAC00016 Count: 2
-            FAC00017 Count: 2
-            FAC00018 Count: 2
+## 11. Data Checks
+**Duplicate Key Data**
+FacilityID:    Count:
+FacilityID	cnt
+FAC00001	2  FAC00002	2  FAC00003	2  FAC00004	2  FAC00005	2  FAC00006	2  FAC00007	2  FAC00008	2  FAC00009	2  FAC00010	2
+FAC00011	2  FAC00012	2  FAC00013	2  FAC00014	2  FAC00015	2  FAC00016	2  FAC00017	2  FAC00018	2  FAC00019	2
+FAC00020	2  FAC00021	2  FAC00022	2  FAC00023	2  FAC00024	2  FAC00025	2  FAC00026	2  FAC00027	2  FAC00028	2  FAC00029	2
+FAC00030	2  FAC00031	2  FAC00032	2  FAC00033	2  FAC00034	2  FAC00035	2  FAC00036	2  FAC00037	2  FAC00038	2  FAC00039	2
+FAC00040	2  FAC00041	2  FAC00042	2  FAC00043	2  FAC00044	2  FAC00045	2  FAC00046	2  FAC00047	2  FAC00048	2  FAC00049	2
+FAC00050	2
+
 **Null values**:
 Description - 4382 (22.77%)
 Customer ID - 243007 (0.41%)
