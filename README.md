@@ -35,8 +35,12 @@ the destination country, vendor info, shipment mode, milestone dates, and cost/q
 **Dataset source**: [Dataset Link!](https://www.kaggle.com/datasets/yogape/logistics-operations-database/data)
 
 ### 5. Dataset Shape
-**Rows**: 1067371.
-**Columns**: 8.
+5 Tables: 
+- Facilities Rows: 100
+- Customers Rows: 200
+- Routes Rows: 58
+- Loads Rows: 85410
+- DeliveryEvents Rows: 170820
 
 ### 6. Key Variables
 The 8 Columns are: Invoice, StockCode, Quantity, Description, InvoiceDate, Price, Customer ID, Country.
